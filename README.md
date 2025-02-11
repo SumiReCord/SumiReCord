@@ -18,3 +18,5 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SumiReCord&theme=gruvbox" />
 </a>
 
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SumiReCord&theme=gruvbox)
